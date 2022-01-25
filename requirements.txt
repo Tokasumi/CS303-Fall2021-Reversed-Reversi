@@ -1,0 +1,14 @@
+# pip install -i https://mirrors.sustech.edu.cn/pypi/simple -r requirements.txt
+
+# the following package(s) are accessable for submitted code
+numpy
+
+# the following package(s) are accessable for submitted code
+# (inaccessable for other projects of CS303)
+timeout_decorator
+numba
+
+# the following package(s) are inaccessable for submitted code, only for offline EC and test
+ray
+tqdm
+matplotlib
