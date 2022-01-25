@@ -7,7 +7,7 @@ CS303《人工智能》课程的第一个大作业，反向规则黑白棋（传
 0. 黑白棋模拟器 `ReversiSimulator`（用`matplotlib.scatter`即可实现简易的棋盘打印功能）
 1. Minimax搜索 + $\alpha-\beta$剪枝 `agents/`
 2. 评估函数的设计 `agents/ `（位置权重，稳定子，前沿子，行动力，时间权重（考虑得不够多））
-3. 遗传算法调参 `evolve.py`（重头戏，在一众Minimax里面想要获胜只能靠精挑参数）
+3. 遗传算法调参 `evolve.py`（重头戏，一众Minimax里面获胜变成精挑参数比赛）
 
 ### 快速使用
 
